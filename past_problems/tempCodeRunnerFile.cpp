@@ -1,0 +1,1 @@
+count = min(count, ans);
